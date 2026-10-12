@@ -4,8 +4,11 @@ SECTION/COURSE: BJY11
 
 MEMBERS:
     HARVEY KENT B. TANILON
+    
     JOANA ANDREA L. PALISOC
+    
     JOYCE BACO
+    
 
 # OpenCV Face Detection and Head Blur
 
