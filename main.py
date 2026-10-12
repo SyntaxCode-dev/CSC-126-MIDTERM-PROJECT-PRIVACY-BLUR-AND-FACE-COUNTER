@@ -137,7 +137,7 @@ faces = face_cascade.detectMultiScale(
 # w- width of the detected face
 # h - height of the detected face
 def head_effect(img, detected_faces):
-    """Blur detected face regions to help protect privacy."""
+    # Blur detected face regions to help protect privacy.
     result = img.copy()
 
     for (x, y, w, h) in detected_faces:
